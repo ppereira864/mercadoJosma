@@ -1,0 +1,292 @@
+.bodyIndex{
+background-color: hsl(2, 57%, 40%);
+background-image: repeating-linear-gradient(transparent, transparent 50px, rgba(0,0,0,.4) 50px, rgba(0,0,0,.4) 53px, transparent 53px, transparent 63px, rgba(0,0,0,.4) 63px, rgba(0,0,0,.4) 66px, transparent 66px, transparent 116px, rgba(0,0,0,.5) 116px, rgba(0,0,0,.5) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(0,0,0,.5) 169px, rgba(0,0,0,.5) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(0,0,0,.5) 182px, rgba(0,0,0,.5) 232px, transparent 232px),
+repeating-linear-gradient(270deg, transparent, transparent 50px, rgba(0,0,0,.4) 50px, rgba(0,0,0,.4) 53px, transparent 53px, transparent 63px, rgba(0,0,0,.4) 63px, rgba(0,0,0,.4) 66px, transparent 66px, transparent 116px, rgba(0,0,0,.5) 116px, rgba(0,0,0,.5) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(0,0,0,.5) 169px, rgba(0,0,0,.5) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(0,0,0,.5) 182px, rgba(0,0,0,.5) 232px, transparent 232px),
+repeating-linear-gradient(125deg, transparent, transparent 2px, rgba(0,0,0,.2) 2px, rgba(0,0,0,.2) 3px, transparent 3px, transparent 5px, rgba(0,0,0,.2) 5px);
+
+background-repeat: no-repeat;
+background-size: cover;
+background-position: 0,0;
+background-attachment: fixed;
+
+font-family: helvetica, arial, sans-serif;
+line-height: 20px;
+}
+
+.DivNavegador{
+	background-color:rgba(255,255,255,.5);
+	width: 900px;
+	height: 65px;
+}
+
+.hr2{
+  border: 0;
+  border-top: 4px solid #eee;
+}
+
+.hr1{
+  border: 0;
+  border-top: 2px solid #eee;
+}
+
+.divHeader{
+margin:10px;
+}
+
+#header{
+margin: 10px;
+width: 900px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+#header2{
+	margin: 8px;
+	text-align: right;
+	font-size: 17px;
+}
+
+ul, ol{
+list-style: none;
+}
+
+.nav li a{
+background-color: hsl(2, 57%, 40%);
+color: black;
+text-decoration: none;
+padding: 10px 8px;
+display: block;
+}
+
+.nav li a:hover{
+background-color: hsl(8, 62%, 45%);
+}
+
+.nav > li{
+float: left;
+}
+
+.nav li ul{
+display: none;
+position: absolute;
+min-width: 200px;
+}
+
+.nav li:hover > ul{
+	display: block;
+}
+
+.nav li ul li{
+	position: relative;
+
+}
+
+.nav li ul li ul{
+	right: -140px;
+	top: 0px;
+}
+
+.LoginUser{
+	color:white;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.formUsuario{
+	background-color: hsl(2, 57%, 40%); 
+	width:80%;
+}
+
+label.error{
+	color:red;
+	font-size: 9px;
+	font-weight: bold;
+	display: block;
+}
+
+input.error{
+	border: 2.5px dotted red;
+}
+
+select.error{
+	border: 2.5px dotted red;
+}
+
+.ContainerImg{
+	width: 110px;
+	height: 110px;
+	border-radius: 500px;
+	background: pink;
+	padding: 15px;
+	margin-top: -60px;
+	margin-bottom: 30px;
+}
+
+input[type="submit"]{
+	background: linear-gradient(#FFF,pink);
+	border: 1;
+	color: brown;
+	opacity: 0.8;
+	cursor: pointer;
+	border-radius: 20px;
+	margin-bottom: 0;
+}
+
+
+input[type="reset"]{
+	background: linear-gradient(#FFF,red);
+	border: 1;
+	color: brown;
+	opacity: 0.8;
+	cursor: pointer;
+	border-radius: 10px;
+	margin-bottom: 0;
+}
+
+
+input[type="text"],[type="email"],[type="password"]{
+	border: 0.3;
+	border-radius: 20px;
+}
+
+select{
+	border: 0.3;
+	border-radius: 20px;
+}
+
+.banner{
+	width: 700px;
+	height: 200px;
+	border: 3px solid red;
+	margin: auto;
+
+	background-size: 100% 100%;
+
+	animation: banner 10s infinite;
+}
+
+@keyframes banner {
+	0%, 30%{
+		background-image: url('imagenes/imagen1.png');
+		opacity: 1;
+	}
+
+	35%, 65%{
+		background-image: url('imagenes/imagen2.png');
+		opacity: 1;
+	}
+
+	70%, 90%{
+		background-image: url('imagenes/imagen3.png');
+		opacity: 1;
+	}
+	
+}
+
+.slidre{
+	width: 95%;
+	margin: auto;
+	overflow: hidden;
+}
+
+.slider ul{
+	display: flex;
+	padding: 0;
+	width: 300%;
+
+	animation: cambio;
+	animation-duration: 10s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+	animation-timing-function: ease-out;
+}
+
+.slider li{
+	width: 100%;
+	list-style: none;
+}
+
+.slider img{
+	width: 100%;
+}
+
+@keyframes cambio {
+	0%{ margin-left: 0; }
+	30%{ margin-left: 0; }
+
+	35%{ margin-left: -100%; }
+	65%{ margin-left: -100%; }
+
+	70%{ margin-left: -200%; }
+	100%{ margin-left: -200%; }
+}
+
+
+.divFormulario {
+	width: 450px;
+	height: 420px;
+	border: 3px solid pink;
+	margin: auto;
+}
+
+.divImg{
+	width: 110px;
+	height: 110px;
+	border-radius: 500px;
+	background: pink;
+	padding: 15px;
+	margin-top: -60px;
+	margin-bottom: 30px;
+}
+
+.divImg1{
+	width: 70px;
+	height: 75px;
+	border-radius: 500px;
+	background: pink;
+	padding: 5px;
+	margin-top: 60px;
+	margin-bottom: 30px;
+}
+
+.lab1{
+	font-size:  18px;
+}
+
+.lab2{
+	font-size: 12px;
+}
+
+.lab3{
+	font-size: 10px;
+}
+
+.div1Email{
+	margin: 10px;
+	padding-left: 1200px;
+}
+
+.div1Email img{
+	width: 50px;
+}
+
+.div_UU{
+	margin: 10px;
+	padding-left: 1100px;
+	color: pink;
+	text-align-last: center;
+
+}
+
+.div_UU img{
+	width: 100px;
+	border-radius: 400px;
+	background: pink;
+}
+
+p{
+			margin: 10px;
+			background-color: pink;
+			border-radius: 100px;
+			text-align: center;
+			font-size: 21px; 
+		}
+

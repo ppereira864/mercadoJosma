@@ -1,0 +1,836 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"col",
+				"contenteditable	Attr"
+			],
+			[
+				"color",
+				"colgroup	<colgroup>"
+			],
+			[
+				"ur",
+				"cursor"
+			],
+			[
+				"sec",
+				"section"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"htm",
+				"html	html"
+			],
+			[
+				"h",
+				"html	html"
+			],
+			[
+				"cmdtuples_",
+				"cmdtuples_RE	(matricular.php)"
+			],
+			[
+				"mpd",
+				"mpdf"
+			],
+			[
+				"m",
+				"mpdf"
+			],
+			[
+				"mes",
+				"mesNA"
+			],
+			[
+				"matr",
+				"matricula"
+			],
+			[
+				"pr",
+				"productos"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"pro",
+				"producto"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			],
+			[
+				"cos",
+				"closet"
+			],
+			[
+				"pre",
+				"prepare"
+			],
+			[
+				"whil",
+				"while($row=pg_fetch_array($result	(view_alum.php)"
+			],
+			[
+				"els",
+				"else	(modMenu.php)"
+			],
+			[
+				"va",
+				"value	Attr"
+			],
+			[
+				"dar",
+				"darBaja.php	(index.html)"
+			],
+			[
+				"mod",
+				"modMenu.php	(index.html)"
+			],
+			[
+				"dro",
+				"dropMenu.php"
+			],
+			[
+				"C",
+				"CostoP"
+			],
+			[
+				"re",
+				"required"
+			],
+			[
+				"query_",
+				"query_MEN"
+			],
+			[
+				"result_",
+				"result_MEN"
+			],
+			[
+				"e",
+				"elemeto"
+			],
+			[
+				"app",
+				"appendTo"
+			],
+			[
+				"gete",
+				"getElementById(id)	Element"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"nom",
+				"nomPlato"
+			],
+			[
+				"can",
+				"cantIngre"
+			],
+			[
+				"row_",
+				"row_Plat"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"I",
+				"Ingrediente"
+			],
+			[
+				"ti",
+				"tipoIngre"
+			],
+			[
+				"nomb",
+				"NombIngre"
+			],
+			[
+				"Regisr",
+				"Registrar	(index.html)"
+			],
+			[
+				"inpu",
+				"inputt	input - text"
+			],
+			[
+				"Eli",
+				"Eliminar"
+			],
+			[
+				"Ingrediente",
+				"INGREDIENTE"
+			],
+			[
+				"gre",
+				"green	(body_view.css)"
+			],
+			[
+				"o",
+				"orangered"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"yellow",
+				"yellowgreen"
+			],
+			[
+				"optio",
+				"option"
+			],
+			[
+				"for",
+				"for()"
+			],
+			[
+				"ap",
+				"appendChild(aChild)	Node"
+			],
+			[
+				"paren",
+				"parentNode	Node"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"el",
+				"else	(view_alum.php)"
+			],
+			[
+				"dni",
+				"dniAP"
+			],
+			[
+				"encontrando",
+				"encontrandoAP"
+			],
+			[
+				"Elimi",
+				"ELIMINAR"
+			],
+			[
+				"consu",
+				"consultar.php"
+			],
+			[
+				"btn",
+				"btn-warning	(dropAP.html)"
+			],
+			[
+				"cla",
+				"class	Attr"
+			],
+			[
+				"ec",
+				"echo	echo \"…\""
+			],
+			[
+				"drop",
+				"dropAP.html	(index.html)"
+			],
+			[
+				"cl",
+				"class	Attr"
+			],
+			[
+				"bt",
+				"btn-danger	(dropAP.html)"
+			],
+			[
+				"d",
+				"dniAP"
+			],
+			[
+				"btn-",
+				"btn-success	(bootstrap.css)"
+			],
+			[
+				"Matricula",
+				"matricula"
+			],
+			[
+				"MATR",
+				"Matricula	(dropAlum.html)"
+			],
+			[
+				"res",
+				"result_A"
+			],
+			[
+				"TEL",
+				"telfRE"
+			],
+			[
+				"D",
+				"direcRE"
+			],
+			[
+				"CUE",
+				"cuentaRE"
+			],
+			[
+				"DNI",
+				"dniRE"
+			],
+			[
+				"RESPONSABLE",
+				"responsableeconomico"
+			],
+			[
+				"EL",
+				"else"
+			],
+			[
+				"R",
+				"RESPONSABLE"
+			],
+			[
+				"BL",
+				"blue"
+			],
+			[
+				"telf",
+				"telfAP"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"gr",
+				"grey"
+			],
+			[
+				"g",
+				"grey"
+			],
+			[
+				"W",
+				"white"
+			],
+			[
+				"GREE",
+				"greenyellow"
+			],
+			[
+				"LIME",
+				"limegreen"
+			],
+			[
+				"GRE",
+				"yellowgreen"
+			],
+			[
+				"i",
+				"if	if …"
+			],
+			[
+				"green",
+				"greenyellow"
+			],
+			[
+				"lim",
+				"limegreen"
+			],
+			[
+				"seagreen",
+				"mediumseagreen"
+			],
+			[
+				"mediumblue",
+				"mediumslateblue"
+			],
+			[
+				"blu",
+				"mediumblue"
+			],
+			[
+				"bl",
+				"blueviolet"
+			],
+			[
+				"t",
+				"table	(modAlum.html)"
+			],
+			[
+				"b",
+				"body	<body>"
+			],
+			[
+				"a",
+				"a	<a href=\"mailto:\"> "
+			],
+			[
+				"ma",
+				"matricula"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"gree",
+				"green"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"gren",
+				"limegreen"
+			],
+			[
+				"blue",
+				"blueviolet"
+			],
+			[
+				"ari",
+				"animation-iteration-count"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"ora",
+				"orange"
+			],
+			[
+				"row_A",
+				"row_AP"
+			],
+			[
+				"lightgreen",
+				"lightseagreen"
+			],
+			[
+				"G",
+				"green"
+			],
+			[
+				"or",
+				"orange"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"cont",
+				"cont_GM"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"dire",
+				"direcA"
+			],
+			[
+				"sexoA",
+				"sexoA"
+			],
+			[
+				"me",
+				"method	Attr"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"if",
+				"if()"
+			],
+			[
+				"fun",
+				"function with name"
+			],
+			[
+				"na",
+				"name	Attr"
+			],
+			[
+				"orange",
+				"orangered"
+			],
+			[
+				"r",
+				"resize"
+			],
+			[
+				"te",
+				"text-decoration-color"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"html",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"list",
+				"list-style"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"CSS3: Validate"
+			],
+			[
+				"in",
+				"42 headers: settings"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"CSS3",
+				"CSS3: Validate"
+			],
+			[
+				"CSS",
+				"CSS3: Clear Gutter Marks"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 254.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"%YAML 1.2",
+			"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/guarderia/matricular.php",
+		"/C/wamp/www/mercajosma/INDEX.html",
+		"/C/wamp/www/guarderia/css/bootstrap.css",
+		"/C/Users/PEREIRA/Documents/PEDRO MATERIAL/compiladores/preparaduria/Lexico (1).jlex",
+		"/C/wamp/www/tutorialpdf/app/reportes/reportes.php",
+		"/C/wamp/www/guarderia/facturaAlumno.php",
+		"/C/wamp/www/guarderia/dropRE.php",
+		"/C/wamp/www/guarderia/index.html",
+		"/C/wamp/www/guarderia/factural.html",
+		"/C/wamp/www/guarderia/estiloCSS/bodyMatricular.css",
+		"/C/wamp/www/guarderia/matricularAlumno.html",
+		"/C/wamp/www/guarderia/dropAlum.html",
+		"/C/wamp/www/guarderia/estiloCSS/estiloModificar.css",
+		"/C/wamp/www/guarderia/modMenu.php",
+		"/C/wamp/www/guarderia/modIngre.php",
+		"/C/wamp/www/guarderia/modRE.php",
+		"/C/wamp/www/guarderia/dropAP.php",
+		"/C/wamp/www/guarderia/darBaja.php",
+		"/C/wamp/www/guarderia/dropAlum.php",
+		"/C/wamp/www/guarderia/modAlum.php",
+		"/C/wamp/www/guarderia/view_alum.php",
+		"/C/wamp/www/guarderia/reportes/css/style.css",
+		"/C/wamp/www/guarderia/reportes/factura.php",
+		"/C/wamp/www/facturas/demo.php",
+		"/C/wamp/www/guarderia/simulacion.php",
+		"/C/wamp/www/guarderia/modAlum.html",
+		"/C/wamp/www/prueba1/ejemploPost.php",
+		"/C/wamp/www/guarderia/dropPlato.php",
+		"/C/wamp/www/guarderia/dropMenu.php",
+		"/C/wamp/www/guarderia/view_menu.php",
+		"/C/wamp/www/guarderia/view_ingre.php",
+		"/C/wamp/www/guarderia/regPlat.php",
+		"/C/wamp/www/guarderia/estiloCSS/estiloFondo.css",
+		"/C/wamp/www/guarderia/dropIngre.php",
+		"/C/wamp/www/prueba1/index.html",
+		"/C/wamp/www/guarderia/regIngre.php",
+		"/C/wamp/www/guarderia/estiloCSS/body_view.css",
+		"/C/wamp/www/tutorialpdf/app/reportes/factura.php",
+		"/C/wamp/www/tutorialpdf/app/reportes/ejemplo.php",
+		"/C/wamp/www/tutorialpdf/app/lib/pdf/mpdf.php",
+		"/C/wamp/www/guarderia/view_plato.php",
+		"/C/wamp/www/facturas/facturas/facturas.php",
+		"/C/wamp/www/guarderia/view_elabplat.php",
+		"/C/wamp/www/guarderia/query_de_BD_guardria_pp/query_plato.sql",
+		"/C/wamp/www/guarderia/modAP.php",
+		"/C/wamp/www/guarderia/modRE.html",
+		"/C/wamp/www/guarderia/modAP.html",
+		"/C/wamp/www/guarderia/estiloCSS/estiloMenu.css",
+		"/C/wamp/www/guarderia/dropAP.html",
+		"/C/wamp/www/guarderia/dropRE.html",
+		"/C/wamp/www/paginaUneg/materiales.php",
+		"/C/wamp/www/guarderia/dropIngre.html",
+		"/C/wamp/www/guarderia/view_EsRe.php",
+		"/C/wamp/www/paginaUneg/consMatProf.php",
+		"/C/wamp/www/paginaUneg/index.php",
+		"/C/wamp/www/guarderia/view_respecon.php",
+		"/C/wamp/www/reporte/reporte.php",
+		"/C/wamp/www/prueba facturar/index.php",
+		"/C/wamp/www/prueba facturar/consultar.php",
+		"/C/wamp/www/prueba facturar/conectar.php",
+		"/C/wamp/www/prueba facturar/convertirPDF.php",
+		"/C/wamp/www/prueba facturar/constaciaEstudios.css",
+		"/C/wamp/www/reporte/config.php",
+		"/C/wamp/www/paginaUneg/regA.php",
+		"/C/wamp/www/facturacion/demo.php",
+		"/C/wamp/www/facturacion/facturas.php",
+		"/C/wamp/www/guarderia/registrarAP.html",
+		"/C/wamp/www/guarderia/elimAlum.php",
+		"/C/wamp/www/guarderia/InfoMenu.html",
+		"/C/wamp/www/guarderia/estiloCSS/bodyInfoMenu.css",
+		"/C/wamp/www/guarderia/regi_AP.php",
+		"/C/wamp/www/guarderia/view_autopater.php",
+		"/C/wamp/www/guarderia/InfoProfe.html",
+		"/C/wamp/www/guarderia/estiloCSS/bodyInfoProf.css",
+		"/C/wamp/www/fechas/index.html",
+		"/C/wamp/www/fechas/conexionfechas.php",
+		"/C/wamp/www/prueba/index.html",
+		"/C/wamp/www/view_autopater.php",
+		"/C/wamp/www/conexion posgretql con wamp server/conexion.php",
+		"/C/wamp/www/guarderia/zsxcd.txt",
+		"/C/wamp/www/nuev1/conexion.php",
+		"/C/Users/PEREIRA/Desktop/index.html",
+		"/C/wamp/www/guarderia/query_de_BD_guardria_pp/query_esrecogidoINSERT.sql",
+		"/C/Users/PEREIRA/Desktop/prueba.html",
+		"/C/wamp/www/guarderia/js/jsguarderia1.js",
+		"/C/wamp/www/nuev1/index.html",
+		"/C/wamp/www/guarderia/query_de_BD_guardria_pp/query_de_BD_guardria_pp.sql",
+		"/C/wamp/www/guarderia/matricularAlumno.php",
+		"/C/wamp/www/guarderia/js/jquery.js",
+		"/C/wamp/www/guarderia/js/jquery-3.0.0.min.js",
+		"/C/Users/PEREIRA/Desktop/jquery-3.0.0.min.js",
+		"/C/wamp/www/guarderia/js/bootstrap.min.js",
+		"/C/Users/PEREIRA/Desktop/jquery.js",
+		"/C/Users/PEREIRA/Desktop/jquery.validate.min.js",
+		"/C/Users/PEREIRA/Desktop/demo/login/screen.css",
+		"/C/wamp/www/guarderia/infUneg.html",
+		"/C/wamp/www/guarderia/estiloCSS/estiloFondoinfuneg.css",
+		"/C/Users/PEREIRA/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/wamp/www/prueba/javascript.js",
+		"/C/wamp/www/prueba/css/bootstrap.min.css",
+		"/C/wamp/www/prueba/estilo.css",
+		"/C/wamp/www/prueba/js/jquery.js",
+		"/C/wamp/www/prueba/index.html.txt",
+		"/C/Users/PEREIRA/Desktop/pendrive/index.html",
+		"/C/Users/PEREIRA/Desktop/.css",
+		"/C/Users/PEREIRA/AppData/Roaming/Sublime Text 3/Packages/User/42-headers.sublime-settings",
+		"/C/Users/PEREIRA/AppData/Roaming/Sublime Text 3/Packages/User/HY.sublime-syntax",
+		"/C/Users/PEREIRA/AppData/Roaming/Sublime Text 3/Packages/User/Plain text.sublime-syntax",
+		"/C/Users/PEREIRA/Desktop/pendrive/estilo1.css",
+		"/C/Users/PEREIRA/Desktop/pendrive/estilo.css",
+		"/C/Users/PEREIRA/Desktop/estilo1.CSS",
+		"/C/wamp/www/guarderia/xxx.css",
+		"/C/wamp/www/guarderia/estilo.css",
+		"/C/Users/PEREIRA/Desktop/estilo"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"	\n",
+			"{\n",
+			"pnj",
+			"blue",
+			"NombreDelNiño",
+			"id",
+			"347px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "INDEX.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\wamp\\www\\guarderia\\view_autopater.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
